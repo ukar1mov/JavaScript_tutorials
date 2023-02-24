@@ -48,9 +48,63 @@
 // console.log(true == "a"); terminal: false
 // console.log(true == "2"); terminal: false
 // console.log(true == "0"); terminal: false. lekn if else da true chiqadi
-// console.log(true == "webbrain");
-// console.log(false == "webbrain");
-
+// console.log(true == "webbrain"); terminal: false
+// console.log(false == "webbrain"); terminal: false
+// =========================Basic Operators, math=================
+// Addition +
+// Subtraction -
+// Multiplication *
+// Division / 
+// Remainder %
+// Exponentiation **
+// Brackets ()
+// Incement ++
+// Decrement --
+// Equality =,==, ===
+// Obrivations +=, -=, /=, *=
+// let a = 1; => bu misol, single threaded tshunchasiga to'g'ri keladi
+// console.log(a++); terminal: 1
+// console.log(a); terminal: 2
+// a++ => a = a + 1
+// a-- => a = a - 1
+// ====================Obrivations============
+// let a = 100;
+// a = a + 10; terminal: 110
+// a += 10; terminal: 110
+// a -= 10;terminal: 90
+// a *= 10; terminal: 1000
+// a /= 10; terminal: 10
+// a %= 3; terminal: 1
+// console.log(a);
+// ==================comparision=============
+// let a = 10;
+// let b = 20;
+// console.log(a > b); terminal: false
+// let a = 10;
+// let b = 20;
+// console.log(a < b); terminal: true
+// let a = 10;
+// let b = 10;
+// console.log(a >= b); terminal: true
+// let a = 10;
+// let b = 20;
+// console.log(a == b); terminal: false
+// let a = 10;
+// let b = "10";
+// console.log(a === b); terminal: false
+// let a = "A"
+// let b = "a"
+// console.log(a == b); terminal: false
+// let a = 1;
+// let b = 1;
+// console.log(a != b); terminal: false
+// let a = 1;
+// let b = 2;
+// console.log(a !== b); terminal: true
+// let a = 1;
+// let b = "1";
+// console.log(a !== b); terminal: true 
+// ==========================Logical Operations===============
 
 
 
