@@ -54,13 +54,17 @@
 //     }
 // }
 
-for (i = 1; i < 12; i++){
-    if (i % 2 !== 0){
-        console.log(i);
-    }
-}
+// for (i = 1; i < 12; i++){
+//     if (i % 2 !== 0){
+//         console.log(i);
+//     }
+// }
+// for (let i = 2; i < 10; i++){
+//     for(let j = 2; j < 10; j++){
 
-
+//         console.log(`${i} x ${j} = ${i * j}`);
+//     }
+// }
 
 
 
