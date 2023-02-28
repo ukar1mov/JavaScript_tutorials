@@ -64,9 +64,24 @@
 
 //         console.log(`${i} x ${j} = ${i * j}`);
 //     }
+// // }
+// for(let i = 1; i <= 10; i++){
+//  if (i % 2 === 0){
+//     console.log(i);
+//  }
 // }
-
-
-
-
+// for (let i = 1; i <= 13; i++){
+//     if(i % 3 === 0) continue;
+//     console.log(i);
+// }
+// for (let i = 1; i <= 13; i++){
+//     if(i % 8 === 0) break;
+//     console.log(i);
+// }
+// outer:for(let j = 10; j >= 1; j--){
+//     inner:for(let i = 1; i <= 10; i++){
+//         if(i === 10) break outer;
+//         console.log(`${j}j + ${i}i`);
+//     }
+// }
 
